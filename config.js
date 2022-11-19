@@ -5,7 +5,7 @@
 // - - THANKS TO - -
 // • Allah SWT
 // • Nurutomo
-// • Bochilgaming
+// • Dill Store
 // • Rominaru
 // • Kannachann
 // • Jarot Offc
@@ -47,11 +47,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/NeKo-Bot' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/GPuDMP789G3IGMHda'
+global.sig = 'https://instagram.com/dill_sad17' //Link Instagrammu
+global.sgh = 'https://github.com/FadhilBotz' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/BtDYEM594WL4dvN6AMDCON'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
+global.stg = 'https://instagram.com/dill_sad17'
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -61,15 +61,15 @@ global.ppulsa = '08989513496' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936' //Nomor Bot
-global.nomorown = '6281348106274' //Nomor Owner
-global.namebot = 'NeKo-Bot'  //Nama Bot
-global.nameown = 'Dani Maker'  // Nama Owner
+global.nomorbot = '62882717075713' //Nomor Bot
+global.nomorown = '6288708231116' //Nomor Owner
+global.namebot = 'Dill-Bot'  //Nama Bot
+global.nameown = 'Dill Gz'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281348106274', 'Dani Maker', true] //Ganti jd nomormu sama Namamu
+  ['6288708231116', 'Dill Gz', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,8 +102,8 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 NeKo-Bot  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NeKo-Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  NeKo-Bot'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dill-Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  Dill-Bot'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
